@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "firstName": "Alex",
+    "lastName": "Johnson",
+    "admin": "true",
+    "phoneNumber": "555-1234",
+    "email": "alex.johnson@example.com",
+    "profilePicture": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 2,
+    "firstName": "Sam",
+    "lastName": "Lee",
+    "admin": "false",
+    "phoneNumber": "555-5678",
+    "email": "sam.lee@example.com",
+    "profilePicture": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 3,
+    "firstName": "Chris",
+    "lastName": "Green",
+    "admin": "false",
+    "phoneNumber": "555-9012",
+    "email": "chris.green@example.com",
+    "profilePicture": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 4,
+    "firstName": "Jordan",
+    "lastName": "Smith",
+    "admin": "true",
+    "phoneNumber": "555-3456",
+    "email": "jordan.smith@example.com",
+    "profilePicture": "https://via.placeholder.com/150"
+  }
+]
