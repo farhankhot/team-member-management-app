@@ -24,7 +24,7 @@ To start the project in development mode, run:
 
 ```bash
 npm start
-
+```
 ## Available Scripts
 
 In the project directory, you can run:
