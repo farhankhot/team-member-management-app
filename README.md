@@ -6,6 +6,25 @@ This project is a simple React application for managing team members. Users can 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Prerequisites
+
+Before you begin, ensure you have Node.js and npm installed on your system.
+
+## Installation
+
+To set up the project locally, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/farhankhot/team-member-management-app.git`
+2. Navigate to the project directory: `cd team-member-management-app`
+3. Install dependencies: `npm install`
+
+## Running the Project
+
+To start the project in development mode, run:
+
+```bash
+npm start
+
 ## Available Scripts
 
 In the project directory, you can run:
