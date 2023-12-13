@@ -5,7 +5,7 @@
     "lastName": "Johnson",
     "admin": "true",
     "phoneNumber": "555-1234",
-    "email": "alex.johnson@example.com",
+    "email": "alex.johnson@instawork.com",
     "profilePicture": "https://via.placeholder.com/150"
   },
   {
@@ -14,7 +14,7 @@
     "lastName": "Lee",
     "admin": "false",
     "phoneNumber": "555-5678",
-    "email": "sam.lee@example.com",
+    "email": "sam.lee@instawork.com",
     "profilePicture": "https://via.placeholder.com/150"
   },
   {
@@ -23,7 +23,7 @@
     "lastName": "Green",
     "admin": "false",
     "phoneNumber": "555-9012",
-    "email": "chris.green@example.com",
+    "email": "chris.green@instawork.com",
     "profilePicture": "https://via.placeholder.com/150"
   },
   {
@@ -32,7 +32,7 @@
     "lastName": "Smith",
     "admin": "true",
     "phoneNumber": "555-3456",
-    "email": "jordan.smith@example.com",
+    "email": "jordan.smith@instawork.com",
     "profilePicture": "https://via.placeholder.com/150"
   }
 ]

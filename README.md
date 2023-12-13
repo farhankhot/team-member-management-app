@@ -1,3 +1,7 @@
+# Team Member Management App
+
+This project is a simple React application for managing team members. Users can view, add, edit, and delete team members, as well as assign roles (Admin or Regular) to them.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
